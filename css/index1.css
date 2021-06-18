@@ -165,8 +165,8 @@ section img{
 		height:300px;
 	}
 	.short{
-		width:300px;
-		height:200px;
+		width:250px;
+		height:150px;
 	}
 	.dos ul{
 		flex-direction:column;
@@ -179,11 +179,11 @@ section img{
 	}
 }
 footer{
-	width:95%;
+	width:100%;
 	position:relative;
 	color:white;
 	text-align:center;
-	margin:0 10px;
+	margin:auto;
 }
 footer img{
 	width:100%;
