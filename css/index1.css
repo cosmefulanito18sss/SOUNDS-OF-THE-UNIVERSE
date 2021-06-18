@@ -193,8 +193,7 @@ footer img{
 	opacity:0.4;
 	z-index:-6;
 }
-footer p{
-	position:relative;
+footer b{
 	margin:20px 0;
 	z-index:5;
 	font-size:19px;
