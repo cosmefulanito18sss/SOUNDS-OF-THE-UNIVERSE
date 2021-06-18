@@ -192,7 +192,9 @@ footer img{
 	height:150px;
 	opacity:0.4;
 	z-index:-6;
-	margin:auto;
+	margin-left;0;
+	margin-right:0;
+	margin-bottom:0;
 }
 footer b{
 	margin:20px 0;
