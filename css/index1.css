@@ -194,6 +194,7 @@ footer img{
 	z-index:-6;
 }
 footer p{
+	position:relative;
 	margin:20px 0;
 	z-index:5;
 	font-size:19px;
